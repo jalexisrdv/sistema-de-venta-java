@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Taller-de-Base-de-Datos"/>
+        <group name="TAP-AD18-U1">
+            <file>file:/C:/Users/Bomby007/Downloads/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/modelos/db/SQLogin.java</file>
+            <file>file:/C:/Users/Bomby007/Downloads/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/modelos/db/Conexion.java</file>
+            <file>file:/C:/Users/Bomby007/Downloads/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/vistas/PanelLogin.java</file>
+            <file>file:/C:/Users/Bomby007/Downloads/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/controladores/OyenteBotonesSecciones.java</file>
+            <file>file:/C:/Users/Bomby007/Downloads/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/controladores/OyenteLogin.java</file>
+            <file>file:/C:/Users/Bomby007/Downloads/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/modelos/Usuario.java</file>
+        </group>
+        <group name="PuntodeVenta">
+            <file>file:/C:/Users/GenaroLM/Desktop/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/sistemadeventadeportes/MainSistemaDeVentaDeportes.java</file>
+            <file>file:/C:/Users/GenaroLM/Desktop/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/modelos/g/CargarProductos.java</file>
+            <file>file:/C:/Users/GenaroLM/Desktop/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/controladores/g/ControladorES.java</file>
+            <file>file:/C:/Users/GenaroLM/Desktop/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/vistas/g/VCategoria.java</file>
+        </group>
+        <group name="Taller-Base-de-Datos"/>
+        <group name="personal-projects">
+            <file>file:/Users/jardv/Documents/Codigos/Taller-DB/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/modelos/db/Conexion.java</file>
+            <file>file:/Users/jardv/Documents/Codigos/Taller-DB/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/vistas/PanelSecciones.java</file>
+            <file>file:/Users/jardv/Documents/Codigos/Taller-DB/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/BaseDatos/Conexion.java</file>
+            <file>file:/Users/jardv/Documents/Codigos/Taller-DB/SistemaDeVentaDeportes/SistemaDeVentaDeportes/src/BaseDatos/SQLProveedores.java</file>
+        </group>
+    </open-files>
+</project-private>
